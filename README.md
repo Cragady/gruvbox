@@ -24,6 +24,27 @@ Forked from: [Dave-Elec/gruvbox](https://github.com/Dave-Elec/gruvbox)
 
 Original repo: [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
 
+Dave-Elec's Changes
+-----------
+
+Added transparent background which can be set by
+
+```viml
+let g:gruvbox_transparent_bg=1
+```
+
+Added cursor_column background option which can be set by
+
+```viml
+let g:gruvbox_cursor_column=<color_name>
+```
+
+Added selection background option which can be set by
+
+```viml
+let g:gruvbox_selection_bg=<color_name>
+```
+
 Screenshots
 -----------
 
