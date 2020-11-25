@@ -20,9 +20,9 @@ Note From Forker
 
 I did not edit this repo in any way. All I did was fork from someone who added settings for a transparent background, and merged this fork's master with the original repository's master branch to have the latest version of gruvbox with a transparent background. 
 
-Forked from: `Dave-Elec/gruvbox`
+Forked from: [Dave-Elec/gruvbox](https://github.com/Dave-Elec/gruvbox)
 
-Original repo: `morhetz/gruvbox`
+Original repo: [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
 
 Screenshots
 -----------
